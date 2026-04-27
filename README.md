@@ -2,7 +2,7 @@
 
 A minimal, distraction-free Pomodoro timer built with React + TypeScript + Tailwind CSS.
 
-![Focus Flow](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
+![Focus Flow](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-06B6D4?style=flat-square&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite)
@@ -28,7 +28,7 @@ A minimal, distraction-free Pomodoro timer built with React + TypeScript + Tailw
 
 | Layer     | Choice                          |
 | --------- | ------------------------------- |
-| Framework | React 18                        |
+| Framework | React 19                        |
 | Language  | TypeScript 5                    |
 | Styling   | Tailwind CSS 3                  |
 | Bundler   | Vite 5                          |
